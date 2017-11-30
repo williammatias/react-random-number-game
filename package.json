@@ -7,9 +7,10 @@
 		"test": "jest"
 	},
 	"dependencies": {
+		"lodash.shuffle": "^4.2.0",
+		"prop-types": "latest",
 		"react": "16.0.0",
-		"react-native": "0.50.4",
-		"prop-types": "latest"
+		"react-native": "0.50.4"
 	},
 	"devDependencies": {
 		"babel-eslint": "^8.0.2",
